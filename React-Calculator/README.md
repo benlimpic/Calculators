@@ -1,0 +1,1 @@
+A calculator in React built with useReducer() hook. React, HTML and CSS. It can perform basic arithmetic operations and also has a backspace button to delete the last digit entered.
